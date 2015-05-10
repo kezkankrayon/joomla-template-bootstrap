@@ -28,6 +28,11 @@ local.properties
 # PDT-specific
 .buildpath
 
+#############
+## IntelliJ
+#############
+
+.idea
 
 #################
 ## Visual Studio
@@ -213,3 +218,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+
+/node_modules
+/bower_components

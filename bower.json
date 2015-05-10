@@ -1,0 +1,25 @@
+{
+  "name": "master-bootstrap-3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kezkankrayon/master-bootstrap-3",
+  "authors": [
+    "Ciarán O'Mara <kezkankrayon@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "font-awesome": "~4.3.0",
+    "modernizr": "~2.8.3",
+    "jquery-legacy": "jquery#^1"
+  }
+}

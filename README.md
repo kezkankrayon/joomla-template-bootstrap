@@ -1,8 +1,10 @@
-master-bootstrap
+joomla-template-bootstrap
 =======================
-Created by Gonzalo Suez. See the official site for more info: http://www.masterbootstrap.com
+Inspired by Gonzalo Suez's master-bootstrap 3. See their site for more info: http://www.masterbootstrap.com
 
-This template is based in Twitter Bootstrap 3, for Joomla! 3.x. 
+This template is for Joomla! 3.x.
+The template is based in Twitter Bootstrap 3, and closely follows the HTML5 Boilerplate recommendations.
+
 
 <h3>Some features:</h3>
 <ul>
@@ -21,14 +23,12 @@ This template is based in Twitter Bootstrap 3, for Joomla! 3.x.
 <li>Hide front content option, from admin!</li>
 </ul>
 
-<h4>Attention: this version is stable, but under development</h4>
-<p>Special Thanks to:</p>
-<p>Bootstrap<br>
-Roberto Segura and Waseem Sadiq for tweaks<br>
-</p>
+<h4>Special Thanks to:</h4>
+<ul>
+<li>Gonzalo Suez</li>
+</ul>
 
-<h4>Support</h4>
-<a href="http://groups.google.com/group/master-bootstrap/subscribe" target="_blank">Google Group</a>
+
 
 
 
